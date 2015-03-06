@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+*.urls
+db.sqlite3
+migrations/
+working.py
+unity/
+work/
+fxb/
+module/
