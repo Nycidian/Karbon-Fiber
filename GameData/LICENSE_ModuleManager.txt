@@ -1,0 +1,6 @@
+ModuleManager is licensed under a modified CC share-alike license, under the terms spelled out by the original author, ialdabaoth, in this post:
+http://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607
+
+The version of ModuleManager included with this (2.x.x+) has been maintained and expanded by sarbian, and is not the original ModuleManager created by ialdabaoth.
+
+More information can be found here: http://forum.kerbalspaceprogram.com/threads/55219
